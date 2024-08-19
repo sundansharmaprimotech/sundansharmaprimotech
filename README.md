@@ -20,6 +20,3 @@ Welcome to my GitHub profile! I'm a passionate MERN Stack Developer with a knack
 
 Feel free to check out my repositories, contribute to projects, or just say hi! 🚀
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sundansharma&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true)
